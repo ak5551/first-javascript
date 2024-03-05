@@ -26,3 +26,5 @@ const myFunction = function(){
 
 //Non primitive datatype ke typeof ko object bola jata hai
 //function ko function object kaha jata hai 
+
+
