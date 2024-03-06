@@ -3,7 +3,7 @@
 
 //object literals
 
-const mySym = Symbol("key1")
+/*const mySym = Symbol("key1")
 
 const Jsuser = {
     name: "Akash",
@@ -26,3 +26,8 @@ Jsuser.greeting = function(){
     console.log("hello js user");
 }
 console.log(Jsuser.greeting());
+*/
+
+//Singleton Object
+const tinderUer = new Object()
+console.log(tinderUer);

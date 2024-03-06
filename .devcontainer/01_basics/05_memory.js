@@ -1,14 +1,18 @@
 //Stack(Primitive datatypes store karta hai)
 //Heap(Non Primitive datatype store karta hai)
 
+
+//Stack
 let youTube = "Akash"
 let anotherTube = youTube
 
 anotherTube = "Tundare"
-youTube = "Navnath"
+
 
 console.log(youTube);
 console.log(anotherTube);
+
+//Heap
 
 let userOne = {
     email: "user@google.com",
